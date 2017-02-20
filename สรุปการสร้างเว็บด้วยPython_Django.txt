@@ -1,0 +1,9 @@
+﻿สรุปการเขียนเว็บด้วยภาษา Python โดย Django Framework (อ่านว่า จังโก้)
+1. ติดตั้ง Django โดยเข้า command line แล้วพิมพ์คำสั่ง
+pip install django django-nose
+2. ทำการทดสอบผลการติดตั้ง ด้วยการพิมพ์คำสั่ง
+python -m django --version
+(จะแสดง version ของ django ที่ command line เช่น 1.10.5
+3. เพิ่ม path ที่เก็บ script ของ django ( สมมติเก็บไว้ที่ D:\Anaconda3\Scripts ) ด้วยการพิมพ์คำสั่ง
+set PATH=%PATH%;D:\Anaconda3\Scripts
+4. 
