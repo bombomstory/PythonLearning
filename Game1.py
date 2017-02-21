@@ -17,6 +17,5 @@ while not crashed:
 
     pygame.display.update()
     clock.tick(60)
-    pygame.quit()
-    
-    quit()
+# pygame.quit()
+# quit()

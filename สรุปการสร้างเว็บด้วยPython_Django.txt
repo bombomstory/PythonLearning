@@ -6,4 +6,5 @@ python -m django --version
 (จะแสดง version ของ django ที่ command line เช่น 1.10.5
 3. เพิ่ม path ที่เก็บ script ของ django ( สมมติเก็บไว้ที่ D:\Anaconda3\Scripts ) ด้วยการพิมพ์คำสั่ง
 set PATH=%PATH%;D:\Anaconda3\Scripts
-4. 
+4. สร้างโปรเจ็ค ด้วยการพิมพ์คำสั่ง
+
